@@ -1,6 +1,6 @@
 # Flutter AppBar Sample
 
- ### **About**
+ ### **(1) About**
  This simple example is a Flutter App with AppBar. You can understand its detail in my Youtube.
  
- ### **AppBar introduction**
+ ### **(2) AppBar introduction**
