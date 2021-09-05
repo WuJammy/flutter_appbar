@@ -10,6 +10,6 @@
 
 ### ( 3 )  **View**
 
-![image](https://github.com/WuJammy/my_project_aubox_android/blob/master/flow.png)
+![image](https://github.com/WuJammy/flutter_appbar/blob/master/image/appbar_ex.png)
 
 ### ( 4 )  **Reference**
