@@ -16,7 +16,7 @@
 </div>
  
 ## ( 4 )  **Reference**
-* Flutter AppBar Class :  https://api.flutter.dev/flutter/material/AppBar-class.html <br> <br> <br>
+* Flutter AppBar Class :  https://api.flutter.dev/flutter/material/AppBar-class.html <br> <br> 
 
 
 This is my [Youtube Channel](https://www.youtube.com/channel/UCkwBqNkSfeAtqjl-GbPynIA). Welcome to share, subscribe and like.
