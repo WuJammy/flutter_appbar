@@ -10,6 +10,8 @@
 
 ### ( 3 )  **View**
 
+<center>
 ![image](https://github.com/WuJammy/flutter_appbar/blob/master/image/appbar_ex.png)
-
+</center>
+ 
 ### ( 4 )  **Reference**
