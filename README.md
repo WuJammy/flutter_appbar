@@ -1,7 +1,7 @@
 # Flutter AppBar Sample
 
  ## **( 1 )  About**
- This simple example is a Flutter App with AppBar. You can see its detail in my Youtube video.
+ This simple example is a Flutter App with AppBar. You can see its detail in my [Youtube video](https://www.youtube.com/watch?v=ppHAFJktlJk&t=2212s&ab_channel=%E5%B7%A5%E7%A8%8B%E4%BA%82%E8%81%8A).  
  
  ## **( 2 )  AppBar introduction**
  An app bar consists of a toolbar and potentially other widgets.
